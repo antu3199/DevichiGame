@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Teeeetter
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -0, z: -.374607384, w: -.927183509}
+        inSlope: {x: 0, y: 0, z: -6.55077267, w: 6.4374361}
+        outSlope: {x: 0, y: 0, z: -6.55077267, w: 6.4374361}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: -0, y: -0, z: -.920505106, w: -.39073047}
+        inSlope: {x: 0, y: 0, z: -3.31545639, w: 7.81074572}
+        outSlope: {x: 0, y: 0, z: -3.31545639, w: 7.81074572}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -0, y: -0, z: -.927183449, w: .374607533}
+        inSlope: {x: 0, y: 0, z: 3.17865252, w: 7.86741638}
+        outSlope: {x: 0, y: 0, z: 3.17865252, w: 7.86741638}
+        tangentMode: 0
+      - time: .24999997
+        value: {x: -0, y: -0, z: -.390729904, w: .920505404}
+        inSlope: {x: 0, y: 0, z: 6.43744516, w: 6.55077696}
+        outSlope: {x: 0, y: 0, z: 6.43744516, w: 6.55077696}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PlayerCutscene/Player_Animation/Player_Body
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 3973780783
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .24999997
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .24999997
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: PlayerCutscene/Player_Animation/Player_Body
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .24999997
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: PlayerCutscene/Player_Animation/Player_Body
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.374607384
+        inSlope: -6.55077267
+        outSlope: -6.55077267
+        tangentMode: 0
+      - time: .0833333358
+        value: -.920505106
+        inSlope: -3.31545639
+        outSlope: -3.31545639
+        tangentMode: 0
+      - time: .166666672
+        value: -.927183449
+        inSlope: 3.17865252
+        outSlope: 3.17865252
+        tangentMode: 0
+      - time: .24999997
+        value: -.390729904
+        inSlope: 6.43744516
+        outSlope: 6.43744516
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: PlayerCutscene/Player_Animation/Player_Body
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.927183509
+        inSlope: 6.4374361
+        outSlope: 6.4374361
+        tangentMode: 0
+      - time: .0833333358
+        value: -.39073047
+        inSlope: 7.81074572
+        outSlope: 7.81074572
+        tangentMode: 0
+      - time: .166666672
+        value: .374607533
+        inSlope: 7.86741638
+        outSlope: 7.86741638
+        tangentMode: 0
+      - time: .24999997
+        value: .920505404
+        inSlope: 6.55077696
+        outSlope: 6.55077696
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: PlayerCutscene/Player_Animation/Player_Body
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333135
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .24999997
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: PlayerCutscene/Player_Animation/Player_Body
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333135
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .24999997
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: PlayerCutscene/Player_Animation/Player_Body
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 764
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333135
+        value: 854
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666657
+        value: 944
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .24999997
+        value: 1034
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: PlayerCutscene/Player_Animation/Player_Body
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

@@ -1,0 +1,3613 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Leafree Walk
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00231614965, w: .999997318}
+        inSlope: {x: 0, y: 3.1983124e-39, z: 0, w: 2.00343418}
+        outSlope: {x: 0, y: 0, z: -.000106170774, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.00356583251, w: .999993622}
+        inSlope: {x: 0, y: 0, z: -.000107567757, w: 0}
+        outSlope: {x: 0, y: 0, z: -.00114692375, w: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.0672345459, w: .997737169}
+        inSlope: {x: 0, y: 0, z: -.00120699406, w: -.000357627869}
+        outSlope: {x: 0, y: 0, z: .00125169766, w: .000357627898}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .00231614965, w: .999997318}
+        inSlope: {x: 0, y: 0, z: .00130059209, w: 0}
+        outSlope: {x: 1.40129846e-45, y: 3.19845814e-39, z: 0, w: 3.42501855}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_LLeg/Leafree_LShoe
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00267447648, w: .999996424}
+        inSlope: {x: 0, y: 3.1983124e-39, z: 0, w: 2.00343418}
+        outSlope: {x: 0, y: 0, z: .378719509, w: -.00107288361}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: .0554538444, w: .998461246}
+        inSlope: {x: 0, y: 0, z: 8.94069672e-05, w: 0}
+        outSlope: {x: 0, y: 0, z: -.00131875288, w: 0}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .00267447648, w: .999996424}
+        inSlope: {x: 0, y: 0, z: .377301633, w: -.00107288372}
+        outSlope: {x: 1.40129846e-45, y: 3.19845814e-39, z: 0, w: 3.42501855}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_RLeg/Leafree_RShoe
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0180105083, w: -.999837816}
+        inSlope: {x: 0, y: 3.19113776e-39, z: 0, w: 2.00343418}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .0180105083, w: -.999837816}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 1.40129846e-45, y: 3.19128349e-39, z: 0, w: 3.42501855}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0480427817, w: -.998845279}
+        inSlope: {x: 0, y: 3.1983124e-39, z: 0, w: 2.00343418}
+        outSlope: {x: 0, y: 0, z: -.00143051147, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.00634603202, w: -.999979854}
+        inSlope: {x: 0, y: 0, z: -.00143051147, w: 0}
+        outSlope: {x: 0, y: 0, z: .000715255796, w: 0}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .0480427817, w: -.998845279}
+        inSlope: {x: 0, y: 0, z: .000715255796, w: 0}
+        outSlope: {x: 1.40129846e-45, y: 3.19845814e-39, z: 0, w: 3.42501855}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Hat
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .643188775, w: -.765707612}
+        inSlope: {x: 0, y: 3.19113776e-39, z: 0, w: 2.00343418}
+        outSlope: {x: 0, y: 0, z: -.27859211, w: -.234007835}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .643188775, w: -.765707612}
+        inSlope: {x: 0, y: 0, z: -.27859211, w: -.234007835}
+        outSlope: {x: 1.40129846e-45, y: 3.19128349e-39, z: 0, w: 3.42501855}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_RArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .59795785, w: .80152756}
+        inSlope: {x: 0, y: 3.19113776e-39, z: 0, w: 2.00343418}
+        outSlope: {x: 0, y: 0, z: -.268816948, w: .200510025}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .59795785, w: .80152756}
+        inSlope: {x: 0, y: 0, z: -.268578529, w: .200390816}
+        outSlope: {x: 1.40129846e-45, y: 3.19128349e-39, z: 0, w: 3.42501855}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_LArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.00204264326, w: .999997914}
+        inSlope: {x: 0, y: 0, z: -.868522763, w: -.0332508087}
+        outSlope: {x: 0, y: 0, z: -.868522763, w: -.0332508087}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.0744195431, w: .997227013}
+        inSlope: {x: 0, y: 0, z: -.727041781, w: -.0457084179}
+        outSlope: {x: 0, y: 0, z: -.727041781, w: -.0457084179}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.123216279, w: .992379844}
+        inSlope: {x: 0, y: 0, z: -.165092394, w: -.0146155348}
+        outSlope: {x: 0, y: 0, z: -.165092394, w: -.0146155348}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.101934947, w: .99479109}
+        inSlope: {x: 0, y: 0, z: .392774105, w: .035705924}
+        outSlope: {x: 0, y: 0, z: .392774105, w: .035705924}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.0577539206, w: .998330832}
+        inSlope: {x: 0, y: 0, z: .451735914, w: .0291230641}
+        outSlope: {x: 0, y: 0, z: .451735914, w: .0291230641}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.0266456176, w: .999644935}
+        inSlope: {x: 0, y: 0, z: .370480746, w: .0099670887}
+        outSlope: {x: 0, y: 0, z: .370480746, w: .0099670887}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .00399286719, w: .999992013}
+        inSlope: {x: 0, y: 0, z: .367661893, w: .00416493509}
+        outSlope: {x: 0, y: 0, z: .367661893, w: .00416493509}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.014874273, w: .999889374}
+        inSlope: {x: 0, y: 0, z: -.629572034, w: -.0259101391}
+        outSlope: {x: 0, y: 0, z: -.629572034, w: -.0259101391}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.0673386082, w: .997730196}
+        inSlope: {x: 0, y: 0, z: -.519672573, w: -.0303146839}
+        outSlope: {x: 0, y: 0, z: -.519672573, w: -.0303146839}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.10148637, w: .994836926}
+        inSlope: {x: 0, y: 0, z: -.0743523836, w: -.0054824343}
+        outSlope: {x: 0, y: 0, z: -.0743523836, w: -.0054824343}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.0797306746, w: .996816456}
+        inSlope: {x: 0, y: 0, z: .353970647, w: .0255593061}
+        outSlope: {x: 0, y: 0, z: .353970647, w: .0255593061}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.0424912572, w: .999096811}
+        inSlope: {x: 0, y: 0, z: .342512786, w: .0175627451}
+        outSlope: {x: 0, y: 0, z: .342512786, w: .0175627451}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.0226452015, w: .999743581}
+        inSlope: {x: 0, y: 0, z: .221540496, w: .00532615185}
+        outSlope: {x: 0, y: 0, z: .221540496, w: .00532615185}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: -.00556784263, w: .999984503}
+        inSlope: {x: 0, y: 0, z: .204928353, w: .00289106439}
+        outSlope: {x: 0, y: 0, z: .204928353, w: .00289106439}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.0053262976, w: .999985814}
+        inSlope: {x: 0, y: 0, z: -.438431472, w: -.0103490353}
+        outSlope: {x: 0, y: 0, z: -.438431472, w: -.0103490353}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.0418622531, w: .999123394}
+        inSlope: {x: 0, y: 0, z: -.342575669, w: -.0116157532}
+        outSlope: {x: 0, y: 0, z: -.342575669, w: -.0116157532}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.062422242, w: .998049855}
+        inSlope: {x: 0, y: 0, z: .054952085, w: .0020502815}
+        outSlope: {x: 0, y: 0, z: .054952085, w: .0020502815}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.0327035747, w: .999465108}
+        inSlope: {x: 0, y: 0, z: .423007488, w: .0115048885}
+        outSlope: {x: 0, y: 0, z: .423007488, w: .0115048885}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: .00807901192, w: .999967337}
+        inSlope: {x: 0, y: 0, z: .352884263, w: .00116372085}
+        outSlope: {x: 0, y: 0, z: .352884263, w: .00116372085}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: .0261104796, w: .999659061}
+        inSlope: {x: 0, y: 0, z: .186803848, w: -.00441885041}
+        outSlope: {x: 0, y: 0, z: .186803848, w: -.00441885041}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .0392129868, w: .999230862}
+        inSlope: {x: 0, y: 0, z: .157230124, w: -.00513839861}
+        outSlope: {x: 0, y: 0, z: .157230124, w: -.00513839861}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00185928505, w: .999998271}
+        inSlope: {x: 0, y: 0, z: -.469805986, w: -.00832629204}
+        outSlope: {x: 0, y: 0, z: -.469805986, w: -.00832629204}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.0372912139, w: .999304414}
+        inSlope: {x: 0, y: 0, z: -.391977966, w: -.0120874643}
+        outSlope: {x: 0, y: 0, z: -.391977966, w: -.0120874643}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.0634703785, w: .997983694}
+        inSlope: {x: 0, y: 0, z: -.0814516395, w: -.00359380199}
+        outSlope: {x: 0, y: 0, z: -.0814516395, w: -.00359380199}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.0508664884, w: .998705447}
+        inSlope: {x: 0, y: 0, z: .228931233, w: .0101748705}
+        outSlope: {x: 0, y: 0, z: .228931233, w: .0101748705}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.0253151711, w: .999679506}
+        inSlope: {x: 0, y: 0, z: .30661577, w: .0116887083}
+        outSlope: {x: 0, y: 0, z: .30661577, w: .0116887083}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.00318300514, w: .999994934}
+        inSlope: {x: 0, y: 0, z: -2.38182235, w: -.246492147}
+        outSlope: {x: 0, y: 0, z: -2.38182235, w: -.246492147}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.201668203, w: .979453921}
+        inSlope: {x: 0, y: 0, z: -1.79546952, w: -.280936003}
+        outSlope: {x: 0, y: 0, z: -1.79546952, w: -.280936003}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.302427918, w: .953172266}
+        inSlope: {x: 0, y: 0, z: .69686836, w: .101293474}
+        outSlope: {x: 0, y: 0, z: .69686836, w: .101293474}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.0855234787, w: .996336162}
+        inSlope: {x: 0, y: 0, z: 2.73672104, w: .209679037}
+        outSlope: {x: 0, y: 0, z: 2.73672104, w: .209679037}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: .153692245, w: .988118768}
+        inSlope: {x: 0, y: 0, z: 1.19714892, w: -.0171332322}
+        outSlope: {x: 0, y: 0, z: 1.19714892, w: -.0171332322}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: .114001349, w: .993480623}
+        inSlope: {x: 0, y: 0, z: -.941251636, w: .0712570027}
+        outSlope: {x: 0, y: 0, z: -.941251636, w: .0712570027}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: -.00318300514, w: .999994934}
+        inSlope: {x: 0, y: 0, z: -1.40621257, w: .0781717524}
+        outSlope: {x: 0, y: 0, z: -1.40621257, w: .0781717524}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_LLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00165581983, w: .999998629}
+        inSlope: {x: 0, y: 0, z: 1.20703197, w: -.0628688335}
+        outSlope: {x: 0, y: 0, z: 1.20703197, w: -.0628688335}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: .102241822, w: .99475956}
+        inSlope: {x: 0, y: 0, z: .858472347, w: -.0631685257}
+        outSlope: {x: 0, y: 0, z: .858472347, w: -.0631685257}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: .144734547, w: .989470541}
+        inSlope: {x: 0, y: 0, z: -.714083195, w: .0305986442}
+        outSlope: {x: 0, y: 0, z: -.714083195, w: .0305986442}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.0167720374, w: .999859333}
+        inSlope: {x: 0, y: 0, z: -1.91125464, w: -.0281456597}
+        outSlope: {x: 0, y: 0, z: -1.91125464, w: -.0281456597}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.173807919, w: .984779596}
+        inSlope: {x: 0, y: 0, z: -.602971792, w: -.0405535698}
+        outSlope: {x: 0, y: 0, z: -.602971792, w: -.0405535698}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.117267348, w: .993100405}
+        inSlope: {x: 0, y: 0, z: 1.05278254, w: .0913141966}
+        outSlope: {x: 0, y: 0, z: 1.05278254, w: .0913141966}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .00165581983, w: .999998629}
+        inSlope: {x: 0, y: 0, z: 1.42707837, w: .0827787146}
+        outSlope: {x: 0, y: 0, z: 1.42707837, w: .0827787146}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_RLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0884061828, w: .996084511}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.770453274, w: .637496471}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.703686357, w: .710510731}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .114, y: .388000011, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .5
+        value: {x: .114, y: .388000011, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 922243440
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3735434754
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3264953885
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2748899601
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1849147313
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3740376861
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2444692351
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2337812450
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4234092404
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2419213762
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 928737275
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2275231575
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3264953885
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2454647870
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 963584094
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2309554418
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .5
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 1.40129846e-45
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_LLeg/Leafree_LShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 3.1983124e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 3.19845814e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_LLeg/Leafree_LShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00231614965
+        inSlope: 0
+        outSlope: -.000106170774
+        tangentMode: 0
+      - time: .166666672
+        value: -.00356583251
+        inSlope: -.000107567757
+        outSlope: -.00114692375
+        tangentMode: 0
+      - time: .333333343
+        value: -.0672345459
+        inSlope: -.00120699406
+        outSlope: .00125169766
+        tangentMode: 0
+      - time: .5
+        value: .00231614965
+        inSlope: .00130059209
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_LLeg/Leafree_LShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999997318
+        inSlope: 2.00343418
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .999993622
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: .997737169
+        inSlope: -.000357627869
+        outSlope: .000357627898
+        tangentMode: 0
+      - time: .5
+        value: .999997318
+        inSlope: 0
+        outSlope: 3.42501855
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_LLeg/Leafree_LShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 1.40129846e-45
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_RLeg/Leafree_RShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 3.1983124e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 3.19845814e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_RLeg/Leafree_RShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00267447648
+        inSlope: 0
+        outSlope: .378719509
+        tangentMode: 0
+      - time: .333333343
+        value: .0554538444
+        inSlope: 8.94069672e-05
+        outSlope: -.00131875288
+        tangentMode: 0
+      - time: .5
+        value: .00267447648
+        inSlope: .377301633
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_RLeg/Leafree_RShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999996424
+        inSlope: 2.00343418
+        outSlope: -.00107288361
+        tangentMode: 0
+      - time: .333333343
+        value: .998461246
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .999996424
+        inSlope: -.00107288372
+        outSlope: 3.42501855
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_RLeg/Leafree_RShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .114
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .5
+        value: .114
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .388000011
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .5
+        value: .388000011
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 1.40129846e-45
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 3.19113776e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 3.19128349e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0180105083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .0180105083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.999837816
+        inSlope: 2.00343418
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -.999837816
+        inSlope: 0
+        outSlope: 3.42501855
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 1.40129846e-45
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Hat
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 3.1983124e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 3.19845814e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Hat
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0480427817
+        inSlope: 0
+        outSlope: -.00143051147
+        tangentMode: 0
+      - time: .166666672
+        value: -.00634603202
+        inSlope: -.00143051147
+        outSlope: .000715255796
+        tangentMode: 0
+      - time: .5
+        value: .0480427817
+        inSlope: .000715255796
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Hat
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.998845279
+        inSlope: 2.00343418
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -.999979854
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -.998845279
+        inSlope: 0
+        outSlope: 3.42501855
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Hat
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 1.40129846e-45
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_RArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 3.19113776e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 3.19128349e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_RArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .643188775
+        inSlope: 0
+        outSlope: -.27859211
+        tangentMode: 0
+      - time: .5
+        value: .643188775
+        inSlope: -.27859211
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_RArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.765707612
+        inSlope: 2.00343418
+        outSlope: -.234007835
+        tangentMode: 0
+      - time: .5
+        value: -.765707612
+        inSlope: -.234007835
+        outSlope: 3.42501855
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_RArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 1.40129846e-45
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_LArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 3.19113776e-39
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 3.19128349e-39
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_LArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .59795785
+        inSlope: 0
+        outSlope: -.268816948
+        tangentMode: 0
+      - time: .5
+        value: .59795785
+        inSlope: -.268578529
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_LArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .80152756
+        inSlope: 2.00343418
+        outSlope: .200510025
+        tangentMode: 0
+      - time: .5
+        value: .80152756
+        inSlope: .200390816
+        outSlope: 3.42501855
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_LArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.00204264326
+        inSlope: -.868522763
+        outSlope: -.868522763
+        tangentMode: 0
+      - time: .0833333358
+        value: -.0744195431
+        inSlope: -.727041781
+        outSlope: -.727041781
+        tangentMode: 0
+      - time: .166666672
+        value: -.123216279
+        inSlope: -.165092394
+        outSlope: -.165092394
+        tangentMode: 0
+      - time: .25
+        value: -.101934947
+        inSlope: .392774105
+        outSlope: .392774105
+        tangentMode: 0
+      - time: .333333343
+        value: -.0577539206
+        inSlope: .451735914
+        outSlope: .451735914
+        tangentMode: 0
+      - time: .416666687
+        value: -.0266456176
+        inSlope: .370480746
+        outSlope: .370480746
+        tangentMode: 0
+      - time: .5
+        value: .00399286719
+        inSlope: .367661893
+        outSlope: .367661893
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999997914
+        inSlope: -.0332508087
+        outSlope: -.0332508087
+        tangentMode: 0
+      - time: .0833333358
+        value: .997227013
+        inSlope: -.0457084179
+        outSlope: -.0457084179
+        tangentMode: 0
+      - time: .166666672
+        value: .992379844
+        inSlope: -.0146155348
+        outSlope: -.0146155348
+        tangentMode: 0
+      - time: .25
+        value: .99479109
+        inSlope: .035705924
+        outSlope: .035705924
+        tangentMode: 0
+      - time: .333333343
+        value: .998330832
+        inSlope: .0291230641
+        outSlope: .0291230641
+        tangentMode: 0
+      - time: .416666687
+        value: .999644935
+        inSlope: .0099670887
+        outSlope: .0099670887
+        tangentMode: 0
+      - time: .5
+        value: .999992013
+        inSlope: .00416493509
+        outSlope: .00416493509
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.014874273
+        inSlope: -.629572034
+        outSlope: -.629572034
+        tangentMode: 0
+      - time: .0833333358
+        value: -.0673386082
+        inSlope: -.519672573
+        outSlope: -.519672573
+        tangentMode: 0
+      - time: .166666672
+        value: -.10148637
+        inSlope: -.0743523836
+        outSlope: -.0743523836
+        tangentMode: 0
+      - time: .25
+        value: -.0797306746
+        inSlope: .353970647
+        outSlope: .353970647
+        tangentMode: 0
+      - time: .333333343
+        value: -.0424912572
+        inSlope: .342512786
+        outSlope: .342512786
+        tangentMode: 0
+      - time: .416666687
+        value: -.0226452015
+        inSlope: .221540496
+        outSlope: .221540496
+        tangentMode: 0
+      - time: .5
+        value: -.00556784263
+        inSlope: .204928353
+        outSlope: .204928353
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999889374
+        inSlope: -.0259101391
+        outSlope: -.0259101391
+        tangentMode: 0
+      - time: .0833333358
+        value: .997730196
+        inSlope: -.0303146839
+        outSlope: -.0303146839
+        tangentMode: 0
+      - time: .166666672
+        value: .994836926
+        inSlope: -.0054824343
+        outSlope: -.0054824343
+        tangentMode: 0
+      - time: .25
+        value: .996816456
+        inSlope: .0255593061
+        outSlope: .0255593061
+        tangentMode: 0
+      - time: .333333343
+        value: .999096811
+        inSlope: .0175627451
+        outSlope: .0175627451
+        tangentMode: 0
+      - time: .416666687
+        value: .999743581
+        inSlope: .00532615185
+        outSlope: .00532615185
+        tangentMode: 0
+      - time: .5
+        value: .999984503
+        inSlope: .00289106439
+        outSlope: .00289106439
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0053262976
+        inSlope: -.438431472
+        outSlope: -.438431472
+        tangentMode: 0
+      - time: .0833333358
+        value: -.0418622531
+        inSlope: -.342575669
+        outSlope: -.342575669
+        tangentMode: 0
+      - time: .166666672
+        value: -.062422242
+        inSlope: .054952085
+        outSlope: .054952085
+        tangentMode: 0
+      - time: .25
+        value: -.0327035747
+        inSlope: .423007488
+        outSlope: .423007488
+        tangentMode: 0
+      - time: .333333343
+        value: .00807901192
+        inSlope: .352884263
+        outSlope: .352884263
+        tangentMode: 0
+      - time: .416666687
+        value: .0261104796
+        inSlope: .186803848
+        outSlope: .186803848
+        tangentMode: 0
+      - time: .5
+        value: .0392129868
+        inSlope: .157230124
+        outSlope: .157230124
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999985814
+        inSlope: -.0103490353
+        outSlope: -.0103490353
+        tangentMode: 0
+      - time: .0833333358
+        value: .999123394
+        inSlope: -.0116157532
+        outSlope: -.0116157532
+        tangentMode: 0
+      - time: .166666672
+        value: .998049855
+        inSlope: .0020502815
+        outSlope: .0020502815
+        tangentMode: 0
+      - time: .25
+        value: .999465108
+        inSlope: .0115048885
+        outSlope: .0115048885
+        tangentMode: 0
+      - time: .333333343
+        value: .999967337
+        inSlope: .00116372085
+        outSlope: .00116372085
+        tangentMode: 0
+      - time: .416666687
+        value: .999659061
+        inSlope: -.00441885041
+        outSlope: -.00441885041
+        tangentMode: 0
+      - time: .5
+        value: .999230862
+        inSlope: -.00513839861
+        outSlope: -.00513839861
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00185928505
+        inSlope: -.469805986
+        outSlope: -.469805986
+        tangentMode: 0
+      - time: .0833333358
+        value: -.0372912139
+        inSlope: -.391977966
+        outSlope: -.391977966
+        tangentMode: 0
+      - time: .166666672
+        value: -.0634703785
+        inSlope: -.0814516395
+        outSlope: -.0814516395
+        tangentMode: 0
+      - time: .25
+        value: -.0508664884
+        inSlope: .228931233
+        outSlope: .228931233
+        tangentMode: 0
+      - time: .333333343
+        value: -.0253151711
+        inSlope: .30661577
+        outSlope: .30661577
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999998271
+        inSlope: -.00832629204
+        outSlope: -.00832629204
+        tangentMode: 0
+      - time: .0833333358
+        value: .999304414
+        inSlope: -.0120874643
+        outSlope: -.0120874643
+        tangentMode: 0
+      - time: .166666672
+        value: .997983694
+        inSlope: -.00359380199
+        outSlope: -.00359380199
+        tangentMode: 0
+      - time: .25
+        value: .998705447
+        inSlope: .0101748705
+        outSlope: .0101748705
+        tangentMode: 0
+      - time: .333333343
+        value: .999679506
+        inSlope: .0116887083
+        outSlope: .0116887083
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.00318300514
+        inSlope: -2.38182235
+        outSlope: -2.38182235
+        tangentMode: 0
+      - time: .0833333358
+        value: -.201668203
+        inSlope: -1.79546952
+        outSlope: -1.79546952
+        tangentMode: 0
+      - time: .166666672
+        value: -.302427918
+        inSlope: .69686836
+        outSlope: .69686836
+        tangentMode: 0
+      - time: .25
+        value: -.0855234787
+        inSlope: 2.73672104
+        outSlope: 2.73672104
+        tangentMode: 0
+      - time: .333333343
+        value: .153692245
+        inSlope: 1.19714892
+        outSlope: 1.19714892
+        tangentMode: 0
+      - time: .416666687
+        value: .114001349
+        inSlope: -.941251636
+        outSlope: -.941251636
+        tangentMode: 0
+      - time: .5
+        value: -.00318300514
+        inSlope: -1.40621257
+        outSlope: -1.40621257
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999994934
+        inSlope: -.246492147
+        outSlope: -.246492147
+        tangentMode: 0
+      - time: .0833333358
+        value: .979453921
+        inSlope: -.280936003
+        outSlope: -.280936003
+        tangentMode: 0
+      - time: .166666672
+        value: .953172266
+        inSlope: .101293474
+        outSlope: .101293474
+        tangentMode: 0
+      - time: .25
+        value: .996336162
+        inSlope: .209679037
+        outSlope: .209679037
+        tangentMode: 0
+      - time: .333333343
+        value: .988118768
+        inSlope: -.0171332322
+        outSlope: -.0171332322
+        tangentMode: 0
+      - time: .416666687
+        value: .993480623
+        inSlope: .0712570027
+        outSlope: .0712570027
+        tangentMode: 0
+      - time: .5
+        value: .999994934
+        inSlope: .0781717524
+        outSlope: .0781717524
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Leafree/Leafree_Everything/Leafree_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Leafree/Leafree_Everything/Leafree_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00165581983
+        inSlope: 1.20703197
+        outSlope: 1.20703197
+        tangentMode: 0
+      - time: .0833333358
+        value: .102241822
+        inSlope: .858472347
+        outSlope: .858472347
+        tangentMode: 0
+      - time: .166666672
+        value: .144734547
+        inSlope: -.714083195
+        outSlope: -.714083195
+        tangentMode: 0
+      - time: .25
+        value: -.0167720374
+        inSlope: -1.91125464
+        outSlope: -1.91125464
+        tangentMode: 0
+      - time: .333333343
+        value: -.173807919
+        inSlope: -.602971792
+        outSlope: -.602971792
+        tangentMode: 0
+      - time: .416666687
+        value: -.117267348
+        inSlope: 1.05278254
+        outSlope: 1.05278254
+        tangentMode: 0
+      - time: .5
+        value: .00165581983
+        inSlope: 1.42707837
+        outSlope: 1.42707837
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Leafree/Leafree_Everything/Leafree_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999998629
+        inSlope: -.0628688335
+        outSlope: -.0628688335
+        tangentMode: 0
+      - time: .0833333358
+        value: .99475956
+        inSlope: -.0631685257
+        outSlope: -.0631685257
+        tangentMode: 0
+      - time: .166666672
+        value: .989470541
+        inSlope: .0305986442
+        outSlope: .0305986442
+        tangentMode: 0
+      - time: .25
+        value: .999859333
+        inSlope: -.0281456597
+        outSlope: -.0281456597
+        tangentMode: 0
+      - time: .333333343
+        value: .984779596
+        inSlope: -.0405535698
+        outSlope: -.0405535698
+        tangentMode: 0
+      - time: .416666687
+        value: .993100405
+        inSlope: .0913141966
+        outSlope: .0913141966
+        tangentMode: 0
+      - time: .5
+        value: .999998629
+        inSlope: .0827787146
+        outSlope: .0827787146
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Leafree/Leafree_Everything/Leafree_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0884061828
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .996084511
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.770453274
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .637496471
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.703686357
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .710510731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 359.389648
+        inSlope: -50.2558594
+        outSlope: -50.2558594
+        tangentMode: 0
+      - time: .0833333358
+        value: 355.201538
+        inSlope: -39.2739258
+        outSlope: -39.2739258
+        tangentMode: 0
+      - time: .166666672
+        value: 352.842285
+        inSlope: 6.29956055
+        outSlope: 6.29956102
+        tangentMode: 0
+      - time: .25
+        value: 356.25177
+        inSlope: 48.4914589
+        outSlope: 48.4914474
+        tangentMode: 0
+      - time: .333333343
+        value: .925796688
+        inSlope: 40.4291229
+        outSlope: 40.4291229
+        tangentMode: 0
+      - time: .416666687
+        value: 2.99238062
+        inSlope: 21.4119911
+        outSlope: 21.4119987
+        tangentMode: 0
+      - time: .5
+        value: 4.49462938
+        inSlope: 18.0258045
+        outSlope: 18.0258045
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 357.936005
+        inSlope: -6.20672607
+        outSlope: .000183105469
+        tangentMode: 0
+      - time: .5
+        value: 357.936005
+        inSlope: .000183105469
+        outSlope: -16.4639282
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Eyes
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 354.492554
+        inSlope: -12.407959
+        outSlope: .163696289
+        tangentMode: 0
+      - time: .166666672
+        value: .727206528
+        inSlope: .163914084
+        outSlope: -.0820139125
+        tangentMode: 0
+      - time: .5
+        value: 354.492554
+        inSlope: -.081848152
+        outSlope: -30.4090595
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Hat
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Hat
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Head/Leafree_Hat
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .265411437
+        inSlope: -.478455663
+        outSlope: -.0120860338
+        tangentMode: 0
+      - time: .166666672
+        value: 359.59137
+        inSlope: -.0120849609
+        outSlope: -.130737305
+        tangentMode: 0
+      - time: .333333343
+        value: 352.289673
+        inSlope: -.140625
+        outSlope: .145019546
+        tangentMode: 0
+      - time: .5
+        value: .265411437
+        inSlope: .149138346
+        outSlope: -.763825595
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_LLeg/Leafree_LShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_LLeg/Leafree_LShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_LLeg/Leafree_LShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .306472778
+        inSlope: -.502212524
+        outSlope: 43.3729248
+        tangentMode: 0
+      - time: .333333343
+        value: 6.35780334
+        inSlope: .0102996826
+        outSlope: -.150787368
+        tangentMode: 0
+      - time: .5
+        value: .306472778
+        inSlope: 43.229557
+        outSlope: -.88192755
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_RLeg/Leafree_RShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_RLeg/Leafree_RShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_RLeg/Leafree_RShoe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 279.939972
+        inSlope: -193.136902
+        outSlope: 41.6409302
+        tangentMode: 0
+      - time: .5
+        value: 279.939972
+        inSlope: 41.6409302
+        outSlope: -397.372742
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_RArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_RArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_RArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 359.635223
+        inSlope: -274.441772
+        outSlope: -274.441772
+        tangentMode: 0
+      - time: .0833333358
+        value: 336.730927
+        inSlope: -207.335083
+        outSlope: -207.335083
+        tangentMode: 0
+      - time: .166666672
+        value: 324.79303
+        inSlope: 79.8695068
+        outSlope: 79.8695145
+        tangentMode: 0
+      - time: .25
+        value: 350.187744
+        inSlope: 314.121124
+        outSlope: 314.121063
+        tangentMode: 0
+      - time: .333333343
+        value: 17.6819172
+        inSlope: 135.178986
+        outSlope: 135.178986
+        tangentMode: 0
+      - time: .416666687
+        value: 13.0920553
+        inSlope: -108.17189
+        outSlope: -108.171928
+        tangentMode: 0
+      - time: .5
+        value: 359.635223
+        inSlope: -160.658615
+        outSlope: -160.658615
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .213058487
+        inSlope: -53.8461914
+        outSlope: -53.8461914
+        tangentMode: 0
+      - time: .0833333358
+        value: 355.725739
+        inSlope: -44.9307861
+        outSlope: -44.9307861
+        tangentMode: 0
+      - time: .166666672
+        value: 352.721924
+        inSlope: -9.34057617
+        outSlope: -9.34057713
+        tangentMode: 0
+      - time: .25
+        value: 354.168579
+        inSlope: 26.2617207
+        outSlope: 26.2617149
+        tangentMode: 0
+      - time: .333333343
+        value: 357.098785
+        inSlope: 35.1529503
+        outSlope: 35.1529503
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 73.4475555
+        inSlope: -107.411499
+        outSlope: -38.389801
+        tangentMode: 0
+      - time: .5
+        value: 73.4475555
+        inSlope: -38.3594971
+        outSlope: -158.164307
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_LArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_LArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_LArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 359.76593
+        inSlope: -99.5998535
+        outSlope: -99.5998535
+        tangentMode: 0
+      - time: .0833333358
+        value: 351.464264
+        inSlope: -83.4400635
+        outSlope: -83.4400635
+        tangentMode: 0
+      - time: .166666672
+        value: 345.844482
+        inSlope: -18.9777832
+        outSlope: -18.9777851
+        tangentMode: 0
+      - time: .25
+        value: 348.298798
+        inSlope: 45.1944618
+        outSlope: 45.1944542
+        tangentMode: 0
+      - time: .333333343
+        value: 353.378204
+        inSlope: 51.8631516
+        outSlope: 51.8631516
+        tangentMode: 0
+      - time: .416666687
+        value: 356.946259
+        inSlope: 42.4676476
+        outSlope: 42.4676628
+        tangentMode: 0
+      - time: .5
+        value: .457550138
+        inSlope: 42.1204872
+        outSlope: 42.1204872
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 358.295441
+        inSlope: -72.2032471
+        outSlope: -72.2032471
+        tangentMode: 0
+      - time: .0833333358
+        value: 352.27771
+        inSlope: -59.6381836
+        outSlope: -59.6381836
+        tangentMode: 0
+      - time: .166666672
+        value: 348.350433
+        inSlope: -8.53747559
+        outSlope: -8.53747654
+        tangentMode: 0
+      - time: .25
+        value: 350.853821
+        inSlope: 40.6691933
+        outSlope: 40.6691856
+        tangentMode: 0
+      - time: .333333343
+        value: 355.129395
+        inSlope: 39.2936974
+        outSlope: 39.2936974
+        tangentMode: 0
+      - time: .416666687
+        value: 357.404816
+        inSlope: 25.3948936
+        outSlope: 25.3949032
+        tangentMode: 0
+      - time: .5
+        value: 359.361969
+        inSlope: 23.4832821
+        outSlope: 23.4832821
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_Body/Leafree_Cape/Cape1_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Leafree/Leafree_Everything/Leafree_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Leafree/Leafree_Everything/Leafree_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .189743057
+        inSlope: 138.509583
+        outSlope: 138.509583
+        tangentMode: 0
+      - time: .0833333358
+        value: 11.736558
+        inSlope: 98.5110703
+        outSlope: 98.5110703
+        tangentMode: 0
+      - time: .166666672
+        value: 16.6438141
+        inSlope: -81.6289673
+        outSlope: -81.6289749
+        tangentMode: 0
+      - time: .25
+        value: 358.077972
+        inSlope: -218.807022
+        outSlope: -218.806976
+        tangentMode: 0
+      - time: .333333343
+        value: 339.981384
+        inSlope: -68.7194748
+        outSlope: -68.7194748
+        tangentMode: 0
+      - time: .416666687
+        value: 346.531158
+        inSlope: 121.10997
+        outSlope: 121.110016
+        tangentMode: 0
+      - time: .5
+        value: .189743057
+        inSlope: 163.044296
+        outSlope: 163.044296
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Leafree/Leafree_Everything/Leafree_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 10.1438446
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -100.789215
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -89.4470215
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

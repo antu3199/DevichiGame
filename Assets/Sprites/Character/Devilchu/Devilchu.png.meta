@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: dbc0e2f414d5d184192e9d75ae66ca11
+timeCreated: 1437246408
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Apple
+    21300002: Body
+    21300004: Sword1
+    21300006: LHand
+    21300008: RWing
+    21300010: LEye
+    21300012: Tail
+    21300014: Sword2
+    21300016: Heart
+    21300018: LEar
+    21300020: LLeg
+    21300022: LWing
+    21300024: REye
+    21300026: RHand
+    21300028: REar
+    21300030: RLeg
+    21300032: Basket
+    21300034: Ribbon
+    21300036: Scarf
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Apple
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 126
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 93
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sword1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LHand
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 126
+        width: 12
+        height: 9
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RWing
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 121
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: .216989994, y: .671233058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LEye
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 106
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tail
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 11
+        height: 11
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sword2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: .698577881, y: .697223663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heart
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LEar
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 55
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: .824202657, y: .768007398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LLeg
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 58
+        width: 11
+        height: 12
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LWing
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 56
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: .832952499, y: .709284663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: REye
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 60
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RHand
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 37
+        width: 12
+        height: 9
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: REar
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: .22270067, y: .850158691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RLeg
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 34
+        width: 11
+        height: 12
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Basket
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 30
+        width: 23
+        height: 20
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ribbon
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scarf
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

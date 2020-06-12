@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: ab2bc5f8024cc35468ca41f2a8636f68
+timeCreated: 1437946467
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Body
+    21300002: LArm
+    21300004: LLeg
+    21300006: RWing
+    21300008: LWing
+    21300010: SpearHead
+    21300012: RArm
+    21300014: RLeg
+    21300016: SpearPole
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LArm
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 10
+        height: 9
+      alignment: 9
+      pivot: {x: .337578207, y: .716562927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LLeg
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 69
+        width: 9
+        height: 14
+      alignment: 9
+      pivot: {x: .554140747, y: .824843287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RWing
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 69
+        width: 18
+        height: 14
+      alignment: 9
+      pivot: {x: .193203822, y: .314375728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LWing
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 45
+        width: 18
+        height: 14
+      alignment: 9
+      pivot: {x: .824843109, y: .349180222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearHead
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 50
+        width: 19
+        height: 7
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RArm
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 26
+        width: 10
+        height: 9
+      alignment: 9
+      pivot: {x: .321336359, y: .716562927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RLeg
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 21
+        width: 9
+        height: 14
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearPole
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

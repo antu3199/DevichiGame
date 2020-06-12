@@ -1,0 +1,3432 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Dragon Flap
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 0, y: 0, z: -.329278708, w: .944232762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 0, y: 0, z: .313715041, w: .94951719}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.203392327, w: -.979097307}
+        inSlope: {x: 0, y: 0, z: .130538821, w: -.026362896}
+        outSlope: {x: 0, y: 0, z: .130538821, w: -.026362896}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.192514092, w: -.981294215}
+        inSlope: {x: 0, y: 0, z: .137576133, w: -.026906848}
+        outSlope: {x: 0, y: 0, z: .137576133, w: -.026906848}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.180462971, w: -.983581781}
+        inSlope: {x: 0, y: 0, z: .130960286, w: -.0241860151}
+        outSlope: {x: 0, y: 0, z: .130960286, w: -.0241860151}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.170687377, w: -.985325217}
+        inSlope: {x: 0, y: 0, z: .0828339458, w: -.0145987272}
+        outSlope: {x: 0, y: 0, z: .0828339458, w: -.0145987272}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.166657314, w: -.986014903}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.170687377, w: -.985325217}
+        inSlope: {x: 0, y: 0, z: -.0828339607, w: .0145987291}
+        outSlope: {x: 0, y: 0, z: -.0828339607, w: .0145987291}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: -.180462971, w: -.983581781}
+        inSlope: {x: 0, y: 0, z: -.130960315, w: .0241860226}
+        outSlope: {x: 0, y: 0, z: -.130960315, w: .0241860226}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 0, y: 0, z: -.192514092, w: -.981294215}
+        inSlope: {x: 0, y: 0, z: -.137576118, w: .0269068442}
+        outSlope: {x: 0, y: 0, z: -.137576118, w: .0269068442}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 0, y: 0, z: -.203392327, w: -.979097307}
+        inSlope: {x: 0, y: 0, z: -.130538762, w: .0263628829}
+        outSlope: {x: 0, y: 0, z: -.130538762, w: .0263628829}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0262791812, w: .999654651}
+        inSlope: {x: 0, y: 0, z: -.32281661, w: .00414204597}
+        outSlope: {x: 0, y: 0, z: -.32281661, w: .00414204597}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.000622203923, w: .999999821}
+        inSlope: {x: 0, y: 0, z: -.339799047, w: -.000692725182}
+        outSlope: {x: 0, y: 0, z: -.339799047, w: -.000692725182}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.030353995, w: .999539196}
+        inSlope: {x: 0, y: 0, z: -.322691679, w: -.00888490677}
+        outSlope: {x: 0, y: 0, z: -.322691679, w: -.00888490677}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.0544041507, w: .998519003}
+        inSlope: {x: 0, y: 0, z: -.203668743, w: -.00965094566}
+        outSlope: {x: 0, y: 0, z: -.203668743, w: -.00965094566}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.0642987862, w: .997930706}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.0544041507, w: .998519003}
+        inSlope: {x: 0, y: 0, z: .203668743, w: .00965094659}
+        outSlope: {x: 0, y: 0, z: .203668743, w: .00965094659}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: -.0303540006, w: .999539196}
+        inSlope: {x: 0, y: 0, z: .322691679, w: .00888490863}
+        outSlope: {x: 0, y: 0, z: .322691679, w: .00888490863}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 0, y: 0, z: -.000622218475, w: .999999821}
+        inSlope: {x: 0, y: 0, z: .339799047, w: .000692726811}
+        outSlope: {x: 0, y: 0, z: .339799047, w: .000692726811}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 0, y: 0, z: .0262791812, w: .999654651}
+        inSlope: {x: 0, y: 0, z: .32281664, w: -.00414204411}
+        outSlope: {x: 0, y: 0, z: .32281664, w: -.00414204411}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.593685031, w: .804697514}
+        inSlope: {x: 0, y: 0, z: -.132896662, w: -.0994749069}
+        outSlope: {x: 0, y: 0, z: -.132896662, w: -.0994749069}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.604759753, w: .796407938}
+        inSlope: {x: 0, y: 0, z: -.139082551, w: -.105773449}
+        outSlope: {x: 0, y: 0, z: -.139082551, w: -.105773449}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.616865456, w: .787068605}
+        inSlope: {x: 0, y: 0, z: -.130800605, w: -.102207899}
+        outSlope: {x: 0, y: 0, z: -.130800605, w: -.102207899}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.626559854, w: .779373288}
+        inSlope: {x: 0, y: 0, z: -.0819500685, w: -.0653922558}
+        outSlope: {x: 0, y: 0, z: -.0819500685, w: -.0653922558}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.630523801, w: .776169896}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.626559854, w: .779373288}
+        inSlope: {x: 0, y: 0, z: .0819500834, w: .0653922632}
+        outSlope: {x: 0, y: 0, z: .0819500834, w: .0653922632}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: -.616865456, w: .787068605}
+        inSlope: {x: 0, y: 0, z: .130800635, w: .102207929}
+        outSlope: {x: 0, y: 0, z: .130800635, w: .102207929}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 0, y: 0, z: -.604759753, w: .796407938}
+        inSlope: {x: 0, y: 0, z: .139082536, w: .105773441}
+        outSlope: {x: 0, y: 0, z: .139082536, w: .105773441}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 0, y: 0, z: -.593685031, w: .804697514}
+        inSlope: {x: 0, y: 0, z: .132896602, w: .0994748622}
+        outSlope: {x: 0, y: 0, z: .132896602, w: .0994748622}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.349434733, w: .936960697}
+        inSlope: {x: 0, y: 0, z: -.167875171, w: -.0640439987}
+        outSlope: {x: 0, y: 0, z: -.167875171, w: -.0640439987}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.363424331, w: .931623697}
+        inSlope: {x: 0, y: 0, z: -.176141202, w: -.0688723326}
+        outSlope: {x: 0, y: 0, z: -.176141202, w: -.0688723326}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.3787916, w: .925481975}
+        inSlope: {x: 0, y: 0, z: -.166389942, w: -.0677958727}
+        outSlope: {x: 0, y: 0, z: -.166389942, w: -.0677958727}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.391155988, w: .920324385}
+        inSlope: {x: 0, y: 0, z: -.104612052, w: -.0439760685}
+        outSlope: {x: 0, y: 0, z: -.104612052, w: -.0439760685}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.396226943, w: .91815263}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.391155988, w: .920324385}
+        inSlope: {x: 0, y: 0, z: .104612067, w: .0439760759}
+        outSlope: {x: 0, y: 0, z: .104612067, w: .0439760759}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: -.3787916, w: .925481975}
+        inSlope: {x: 0, y: 0, z: .166389972, w: .0677958876}
+        outSlope: {x: 0, y: 0, z: .166389972, w: .0677958876}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 0, y: 0, z: -.363424331, w: .931623697}
+        inSlope: {x: 0, y: 0, z: .176141188, w: .0688723251}
+        outSlope: {x: 0, y: 0, z: .176141188, w: .0688723251}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 0, y: 0, z: -.349434733, w: .936960697}
+        inSlope: {x: 0, y: 0, z: .167875096, w: .0640439689}
+        outSlope: {x: 0, y: 0, z: .167875096, w: .0640439689}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .583678126, w: .811985135}
+        inSlope: {x: 0, y: 0, z: -.186639547, w: .131486893}
+        outSlope: {x: 0, y: 0, z: -.186639547, w: .131486893}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: .568124831, w: .822942376}
+        inSlope: {x: 0, y: 0, z: -.1978966, w: .136327028}
+        outSlope: {x: 0, y: 0, z: -.1978966, w: .136327028}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: .55069536, w: .834706306}
+        inSlope: {x: 0, y: 0, z: -.190307021, w: .126102448}
+        outSlope: {x: 0, y: 0, z: -.190307021, w: .126102448}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: .536406994, w: .843959451}
+        inSlope: {x: 0, y: 0, z: -.121303082, w: .0779539347}
+        outSlope: {x: 0, y: 0, z: -.121303082, w: .0779539347}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: .530478179, w: .847698629}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: .536406994, w: .843959451}
+        inSlope: {x: 0, y: 0, z: .121302739, w: -.0779535919}
+        outSlope: {x: 0, y: 0, z: .121302739, w: -.0779535919}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .5506953, w: .834706366}
+        inSlope: {x: 0, y: 0, z: .190307066, w: -.126102477}
+        outSlope: {x: 0, y: 0, z: .190307066, w: -.126102477}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 0, y: 0, z: .568124831, w: .822942376}
+        inSlope: {x: 0, y: 0, z: .197896928, w: -.136327371}
+        outSlope: {x: 0, y: 0, z: .197896928, w: -.136327371}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 0, y: 0, z: .583678126, w: .811985135}
+        inSlope: {x: 0, y: 0, z: .186639458, w: -.131486833}
+        outSlope: {x: 0, y: 0, z: .186639458, w: -.131486833}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.35188514, w: .936043203}
+        inSlope: {x: 0, y: 0, z: .0894405842, w: .033217907}
+        outSlope: {x: 0, y: 0, z: .0894405842, w: .033217907}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: 0, y: 0, z: -.344431758, w: .938811362}
+        inSlope: {x: 0, y: 0, z: .094299674, w: .0345518589}
+        outSlope: {x: 0, y: 0, z: .094299674, w: .0345518589}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: -.336168528, w: .941801846}
+        inSlope: {x: 0, y: 0, z: .0898295045, w: .0321485996}
+        outSlope: {x: 0, y: 0, z: .0898295045, w: .0321485996}
+        tangentMode: 0
+      - time: .25
+        value: {x: 0, y: 0, z: -.329460174, w: .944169462}
+        inSlope: {x: 0, y: 0, z: .0568529963, w: .019972086}
+        outSlope: {x: 0, y: 0, z: .0568529963, w: .019972086}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 0, y: 0, z: -.326693028, w: .945130527}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: 0, y: 0, z: -.329460174, w: .944169462}
+        inSlope: {x: 0, y: 0, z: -.0568530038, w: -.0199720897}
+        outSlope: {x: 0, y: 0, z: -.0568530038, w: -.0199720897}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: -.336168528, w: .941801846}
+        inSlope: {x: 0, y: 0, z: -.0898295268, w: -.0321486071}
+        outSlope: {x: 0, y: 0, z: -.0898295268, w: -.0321486071}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 0, y: 0, z: -.344431758, w: .938811362}
+        inSlope: {x: 0, y: 0, z: -.0942996591, w: -.0345518552}
+        outSlope: {x: 0, y: 0, z: -.0942996591, w: -.0345518552}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 0, y: 0, z: -.35188514, w: .936043203}
+        inSlope: {x: 0, y: 0, z: -.0894405395, w: -.0332178921}
+        outSlope: {x: 0, y: 0, z: -.0894405395, w: -.0332178921}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.119999938, y: .539997756, z: 0}
+        inSlope: {x: -2.23517418e-08, y: -1.25169754e-06, z: 0}
+        outSlope: {x: -2.23517418e-08, y: -1.25169754e-06, z: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: -.119999945, y: .539997339, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.119999938, y: .539997756, z: 0}
+        inSlope: {x: 2.23517418e-08, y: 1.25169754e-06, z: 0}
+        outSlope: {x: 2.23517418e-08, y: 1.25169754e-06, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0400000028, y: 1.24000001, z: 0}
+        inSlope: {x: -1.89989805e-07, y: -7.15255737e-07, z: 0}
+        outSlope: {x: -1.89989805e-07, y: -7.15255737e-07, z: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: .0399999395, y: 1.23999977, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .0400000028, y: 1.24000001, z: 0}
+        inSlope: {x: 1.89989805e-07, y: 7.15255737e-07, z: 0}
+        outSlope: {x: 1.89989805e-07, y: 7.15255737e-07, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .960000038, y: -1.19000006, z: 0}
+        inSlope: {x: -1.25169754e-06, y: 1.43051147e-06, z: 0}
+        outSlope: {x: -1.25169754e-06, y: 1.43051147e-06, z: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: .959999621, y: -1.18999958, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .960000038, y: -1.19000006, z: 0}
+        inSlope: {x: 1.25169754e-06, y: -1.43051147e-06, z: 0}
+        outSlope: {x: 1.25169754e-06, y: -1.43051147e-06, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.04000008, y: -1.24000061, z: 0}
+        inSlope: {x: 1.43051147e-06, y: 3.57627869e-07, z: 0}
+        outSlope: {x: 1.43051147e-06, y: 3.57627869e-07, z: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: -1.0399996, y: -1.24000049, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -1.04000008, y: -1.24000061, z: 0}
+        inSlope: {x: -1.43051147e-06, y: -3.57627869e-07, z: 0}
+        outSlope: {x: -1.43051147e-06, y: -3.57627869e-07, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .98999995, y: 1.45000005, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .98999995, y: 1.45000005, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.26999998, y: -.069999963, z: 0}
+        inSlope: {x: -2.50339508e-06, y: -1.78813934e-07, z: 0}
+        outSlope: {x: -2.50339508e-06, y: -1.78813934e-07, z: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 1.26999915, y: -.0700000226, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 1.26999998, y: -.069999963, z: 0}
+        inSlope: {x: 2.50339508e-06, y: 1.78813934e-07, z: 0}
+        outSlope: {x: 2.50339508e-06, y: 1.78813934e-07, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .839999974, y: .519999981, z: 0}
+        inSlope: {x: -8.94069672e-07, y: -8.94069672e-07, z: 0}
+        outSlope: {x: -8.94069672e-07, y: -8.94069672e-07, z: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: .839999676, y: .519999683, z: 0}
+        inSlope: {x: -8.94069672e-07, y: -8.94069672e-07, z: 0}
+        outSlope: {x: -8.94069672e-07, y: -8.94069672e-07, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 1550828537
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 963584094
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2309554418
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2454647870
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3377457468
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3377457468
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2454647870
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2309554418
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 963584094
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1550828537
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3311833667
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3311833667
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3425861236
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 467183235
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3425861236
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .666666687
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.119999938
+        inSlope: -2.23517418e-08
+        outSlope: -2.23517418e-08
+        tangentMode: 10
+      - time: .333333343
+        value: -.119999945
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -.119999938
+        inSlope: 2.23517418e-08
+        outSlope: 2.23517418e-08
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .539997756
+        inSlope: -1.25169754e-06
+        outSlope: -1.25169754e-06
+        tangentMode: 10
+      - time: .333333343
+        value: .539997339
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: .539997756
+        inSlope: 1.25169754e-06
+        outSlope: 1.25169754e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0400000028
+        inSlope: -1.89989805e-07
+        outSlope: -1.89989805e-07
+        tangentMode: 10
+      - time: .333333343
+        value: .0399999395
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: .0400000028
+        inSlope: 1.89989805e-07
+        outSlope: 1.89989805e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.24000001
+        inSlope: -7.15255737e-07
+        outSlope: -7.15255737e-07
+        tangentMode: 10
+      - time: .333333343
+        value: 1.23999977
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 1.24000001
+        inSlope: 7.15255737e-07
+        outSlope: 7.15255737e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .960000038
+        inSlope: -1.25169754e-06
+        outSlope: -1.25169754e-06
+        tangentMode: 10
+      - time: .333333343
+        value: .959999621
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: .960000038
+        inSlope: 1.25169754e-06
+        outSlope: 1.25169754e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.19000006
+        inSlope: 1.43051147e-06
+        outSlope: 1.43051147e-06
+        tangentMode: 10
+      - time: .333333343
+        value: -1.18999958
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -1.19000006
+        inSlope: -1.43051147e-06
+        outSlope: -1.43051147e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.04000008
+        inSlope: 1.43051147e-06
+        outSlope: 1.43051147e-06
+        tangentMode: 10
+      - time: .333333343
+        value: -1.0399996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -1.04000008
+        inSlope: -1.43051147e-06
+        outSlope: -1.43051147e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.24000061
+        inSlope: 3.57627869e-07
+        outSlope: 3.57627869e-07
+        tangentMode: 10
+      - time: .333333343
+        value: -1.24000049
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -1.24000061
+        inSlope: -3.57627869e-07
+        outSlope: -3.57627869e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .98999995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: .98999995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.45000005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 1.45000005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.26999998
+        inSlope: -2.50339508e-06
+        outSlope: -2.50339508e-06
+        tangentMode: 10
+      - time: .333333343
+        value: 1.26999915
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 1.26999998
+        inSlope: 2.50339508e-06
+        outSlope: 2.50339508e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.069999963
+        inSlope: -1.78813934e-07
+        outSlope: -1.78813934e-07
+        tangentMode: 10
+      - time: .333333343
+        value: -.0700000226
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -.069999963
+        inSlope: 1.78813934e-07
+        outSlope: 1.78813934e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: -.329278708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: .944232762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: .313715041
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: .94951719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .839999974
+        inSlope: -8.94069672e-07
+        outSlope: -8.94069672e-07
+        tangentMode: 10
+      - time: .333333343
+        value: .839999676
+        inSlope: -8.94069672e-07
+        outSlope: -8.94069672e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .519999981
+        inSlope: -8.94069672e-07
+        outSlope: -8.94069672e-07
+        tangentMode: 10
+      - time: .333333343
+        value: .519999683
+        inSlope: -8.94069672e-07
+        outSlope: -8.94069672e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.203392327
+        inSlope: .130538821
+        outSlope: .130538821
+        tangentMode: 0
+      - time: .0833333358
+        value: -.192514092
+        inSlope: .137576133
+        outSlope: .137576133
+        tangentMode: 0
+      - time: .166666672
+        value: -.180462971
+        inSlope: .130960286
+        outSlope: .130960286
+        tangentMode: 0
+      - time: .25
+        value: -.170687377
+        inSlope: .0828339458
+        outSlope: .0828339458
+        tangentMode: 0
+      - time: .333333343
+        value: -.166657314
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -.170687377
+        inSlope: -.0828339607
+        outSlope: -.0828339607
+        tangentMode: 0
+      - time: .5
+        value: -.180462971
+        inSlope: -.130960315
+        outSlope: -.130960315
+        tangentMode: 0
+      - time: .583333313
+        value: -.192514092
+        inSlope: -.137576118
+        outSlope: -.137576118
+        tangentMode: 0
+      - time: .666666687
+        value: -.203392327
+        inSlope: -.130538762
+        outSlope: -.130538762
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.979097307
+        inSlope: -.026362896
+        outSlope: -.026362896
+        tangentMode: 0
+      - time: .0833333358
+        value: -.981294215
+        inSlope: -.026906848
+        outSlope: -.026906848
+        tangentMode: 0
+      - time: .166666672
+        value: -.983581781
+        inSlope: -.0241860151
+        outSlope: -.0241860151
+        tangentMode: 0
+      - time: .25
+        value: -.985325217
+        inSlope: -.0145987272
+        outSlope: -.0145987272
+        tangentMode: 0
+      - time: .333333343
+        value: -.986014903
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -.985325217
+        inSlope: .0145987291
+        outSlope: .0145987291
+        tangentMode: 0
+      - time: .5
+        value: -.983581781
+        inSlope: .0241860226
+        outSlope: .0241860226
+        tangentMode: 0
+      - time: .583333313
+        value: -.981294215
+        inSlope: .0269068442
+        outSlope: .0269068442
+        tangentMode: 0
+      - time: .666666687
+        value: -.979097307
+        inSlope: .0263628829
+        outSlope: .0263628829
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0262791812
+        inSlope: -.32281661
+        outSlope: -.32281661
+        tangentMode: 0
+      - time: .0833333358
+        value: -.000622203923
+        inSlope: -.339799047
+        outSlope: -.339799047
+        tangentMode: 0
+      - time: .166666672
+        value: -.030353995
+        inSlope: -.322691679
+        outSlope: -.322691679
+        tangentMode: 0
+      - time: .25
+        value: -.0544041507
+        inSlope: -.203668743
+        outSlope: -.203668743
+        tangentMode: 0
+      - time: .333333343
+        value: -.0642987862
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -.0544041507
+        inSlope: .203668743
+        outSlope: .203668743
+        tangentMode: 0
+      - time: .5
+        value: -.0303540006
+        inSlope: .322691679
+        outSlope: .322691679
+        tangentMode: 0
+      - time: .583333313
+        value: -.000622218475
+        inSlope: .339799047
+        outSlope: .339799047
+        tangentMode: 0
+      - time: .666666687
+        value: .0262791812
+        inSlope: .32281664
+        outSlope: .32281664
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999654651
+        inSlope: .00414204597
+        outSlope: .00414204597
+        tangentMode: 0
+      - time: .0833333358
+        value: .999999821
+        inSlope: -.000692725182
+        outSlope: -.000692725182
+        tangentMode: 0
+      - time: .166666672
+        value: .999539196
+        inSlope: -.00888490677
+        outSlope: -.00888490677
+        tangentMode: 0
+      - time: .25
+        value: .998519003
+        inSlope: -.00965094566
+        outSlope: -.00965094566
+        tangentMode: 0
+      - time: .333333343
+        value: .997930706
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .998519003
+        inSlope: .00965094659
+        outSlope: .00965094659
+        tangentMode: 0
+      - time: .5
+        value: .999539196
+        inSlope: .00888490863
+        outSlope: .00888490863
+        tangentMode: 0
+      - time: .583333313
+        value: .999999821
+        inSlope: .000692726811
+        outSlope: .000692726811
+        tangentMode: 0
+      - time: .666666687
+        value: .999654651
+        inSlope: -.00414204411
+        outSlope: -.00414204411
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.593685031
+        inSlope: -.132896662
+        outSlope: -.132896662
+        tangentMode: 0
+      - time: .0833333358
+        value: -.604759753
+        inSlope: -.139082551
+        outSlope: -.139082551
+        tangentMode: 0
+      - time: .166666672
+        value: -.616865456
+        inSlope: -.130800605
+        outSlope: -.130800605
+        tangentMode: 0
+      - time: .25
+        value: -.626559854
+        inSlope: -.0819500685
+        outSlope: -.0819500685
+        tangentMode: 0
+      - time: .333333343
+        value: -.630523801
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -.626559854
+        inSlope: .0819500834
+        outSlope: .0819500834
+        tangentMode: 0
+      - time: .5
+        value: -.616865456
+        inSlope: .130800635
+        outSlope: .130800635
+        tangentMode: 0
+      - time: .583333313
+        value: -.604759753
+        inSlope: .139082536
+        outSlope: .139082536
+        tangentMode: 0
+      - time: .666666687
+        value: -.593685031
+        inSlope: .132896602
+        outSlope: .132896602
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .804697514
+        inSlope: -.0994749069
+        outSlope: -.0994749069
+        tangentMode: 0
+      - time: .0833333358
+        value: .796407938
+        inSlope: -.105773449
+        outSlope: -.105773449
+        tangentMode: 0
+      - time: .166666672
+        value: .787068605
+        inSlope: -.102207899
+        outSlope: -.102207899
+        tangentMode: 0
+      - time: .25
+        value: .779373288
+        inSlope: -.0653922558
+        outSlope: -.0653922558
+        tangentMode: 0
+      - time: .333333343
+        value: .776169896
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .779373288
+        inSlope: .0653922632
+        outSlope: .0653922632
+        tangentMode: 0
+      - time: .5
+        value: .787068605
+        inSlope: .102207929
+        outSlope: .102207929
+        tangentMode: 0
+      - time: .583333313
+        value: .796407938
+        inSlope: .105773441
+        outSlope: .105773441
+        tangentMode: 0
+      - time: .666666687
+        value: .804697514
+        inSlope: .0994748622
+        outSlope: .0994748622
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.349434733
+        inSlope: -.167875171
+        outSlope: -.167875171
+        tangentMode: 0
+      - time: .0833333358
+        value: -.363424331
+        inSlope: -.176141202
+        outSlope: -.176141202
+        tangentMode: 0
+      - time: .166666672
+        value: -.3787916
+        inSlope: -.166389942
+        outSlope: -.166389942
+        tangentMode: 0
+      - time: .25
+        value: -.391155988
+        inSlope: -.104612052
+        outSlope: -.104612052
+        tangentMode: 0
+      - time: .333333343
+        value: -.396226943
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -.391155988
+        inSlope: .104612067
+        outSlope: .104612067
+        tangentMode: 0
+      - time: .5
+        value: -.3787916
+        inSlope: .166389972
+        outSlope: .166389972
+        tangentMode: 0
+      - time: .583333313
+        value: -.363424331
+        inSlope: .176141188
+        outSlope: .176141188
+        tangentMode: 0
+      - time: .666666687
+        value: -.349434733
+        inSlope: .167875096
+        outSlope: .167875096
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .936960697
+        inSlope: -.0640439987
+        outSlope: -.0640439987
+        tangentMode: 0
+      - time: .0833333358
+        value: .931623697
+        inSlope: -.0688723326
+        outSlope: -.0688723326
+        tangentMode: 0
+      - time: .166666672
+        value: .925481975
+        inSlope: -.0677958727
+        outSlope: -.0677958727
+        tangentMode: 0
+      - time: .25
+        value: .920324385
+        inSlope: -.0439760685
+        outSlope: -.0439760685
+        tangentMode: 0
+      - time: .333333343
+        value: .91815263
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .920324385
+        inSlope: .0439760759
+        outSlope: .0439760759
+        tangentMode: 0
+      - time: .5
+        value: .925481975
+        inSlope: .0677958876
+        outSlope: .0677958876
+        tangentMode: 0
+      - time: .583333313
+        value: .931623697
+        inSlope: .0688723251
+        outSlope: .0688723251
+        tangentMode: 0
+      - time: .666666687
+        value: .936960697
+        inSlope: .0640439689
+        outSlope: .0640439689
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .583678126
+        inSlope: -.186639547
+        outSlope: -.186639547
+        tangentMode: 0
+      - time: .0833333358
+        value: .568124831
+        inSlope: -.1978966
+        outSlope: -.1978966
+        tangentMode: 0
+      - time: .166666672
+        value: .55069536
+        inSlope: -.190307021
+        outSlope: -.190307021
+        tangentMode: 0
+      - time: .25
+        value: .536406994
+        inSlope: -.121303082
+        outSlope: -.121303082
+        tangentMode: 0
+      - time: .333333343
+        value: .530478179
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .536406994
+        inSlope: .121302739
+        outSlope: .121302739
+        tangentMode: 0
+      - time: .5
+        value: .5506953
+        inSlope: .190307066
+        outSlope: .190307066
+        tangentMode: 0
+      - time: .583333313
+        value: .568124831
+        inSlope: .197896928
+        outSlope: .197896928
+        tangentMode: 0
+      - time: .666666687
+        value: .583678126
+        inSlope: .186639458
+        outSlope: .186639458
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .811985135
+        inSlope: .131486893
+        outSlope: .131486893
+        tangentMode: 0
+      - time: .0833333358
+        value: .822942376
+        inSlope: .136327028
+        outSlope: .136327028
+        tangentMode: 0
+      - time: .166666672
+        value: .834706306
+        inSlope: .126102448
+        outSlope: .126102448
+        tangentMode: 0
+      - time: .25
+        value: .843959451
+        inSlope: .0779539347
+        outSlope: .0779539347
+        tangentMode: 0
+      - time: .333333343
+        value: .847698629
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .843959451
+        inSlope: -.0779535919
+        outSlope: -.0779535919
+        tangentMode: 0
+      - time: .5
+        value: .834706366
+        inSlope: -.126102477
+        outSlope: -.126102477
+        tangentMode: 0
+      - time: .583333313
+        value: .822942376
+        inSlope: -.136327371
+        outSlope: -.136327371
+        tangentMode: 0
+      - time: .666666687
+        value: .811985135
+        inSlope: -.131486833
+        outSlope: -.131486833
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.35188514
+        inSlope: .0894405842
+        outSlope: .0894405842
+        tangentMode: 0
+      - time: .0833333358
+        value: -.344431758
+        inSlope: .094299674
+        outSlope: .094299674
+        tangentMode: 0
+      - time: .166666672
+        value: -.336168528
+        inSlope: .0898295045
+        outSlope: .0898295045
+        tangentMode: 0
+      - time: .25
+        value: -.329460174
+        inSlope: .0568529963
+        outSlope: .0568529963
+        tangentMode: 0
+      - time: .333333343
+        value: -.326693028
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: -.329460174
+        inSlope: -.0568530038
+        outSlope: -.0568530038
+        tangentMode: 0
+      - time: .5
+        value: -.336168528
+        inSlope: -.0898295268
+        outSlope: -.0898295268
+        tangentMode: 0
+      - time: .583333313
+        value: -.344431758
+        inSlope: -.0942996591
+        outSlope: -.0942996591
+        tangentMode: 0
+      - time: .666666687
+        value: -.35188514
+        inSlope: -.0894405395
+        outSlope: -.0894405395
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .936043203
+        inSlope: .033217907
+        outSlope: .033217907
+        tangentMode: 0
+      - time: .0833333358
+        value: .938811362
+        inSlope: .0345518589
+        outSlope: .0345518589
+        tangentMode: 0
+      - time: .166666672
+        value: .941801846
+        inSlope: .0321485996
+        outSlope: .0321485996
+        tangentMode: 0
+      - time: .25
+        value: .944169462
+        inSlope: .019972086
+        outSlope: .019972086
+        tangentMode: 0
+      - time: .333333343
+        value: .945130527
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666687
+        value: .944169462
+        inSlope: -.0199720897
+        outSlope: -.0199720897
+        tangentMode: 0
+      - time: .5
+        value: .941801846
+        inSlope: -.0321486071
+        outSlope: -.0321486071
+        tangentMode: 0
+      - time: .583333313
+        value: .938811362
+        inSlope: -.0345518552
+        outSlope: -.0345518552
+        tangentMode: 0
+      - time: .666666687
+        value: .936043203
+        inSlope: -.0332178921
+        outSlope: -.0332178921
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 71.4193115
+        inSlope: -22.0313416
+        outSlope: -22.0313416
+        tangentMode: 10
+      - time: .333333343
+        value: 64.075531
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 71.4193115
+        inSlope: 22.0313416
+        outSlope: 22.0313416
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -41.2053223
+        inSlope: 9.20690918
+        outSlope: 9.20690918
+        tangentMode: 10
+      - time: .333333343
+        value: -38.1363525
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -41.2053223
+        inSlope: -9.20690918
+        outSlope: -9.20690918
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Wing2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -40.9054871
+        inSlope: -17.338623
+        outSlope: -17.338623
+        tangentMode: 10
+      - time: .333333343
+        value: -46.6850281
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -40.9054871
+        inSlope: 17.338623
+        outSlope: 17.338623
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_RLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -72.8378906
+        inSlope: -16.0189819
+        outSlope: -16.0189819
+        tangentMode: 10
+      - time: .333333343
+        value: -78.1775513
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -72.8378906
+        inSlope: 16.0189819
+        outSlope: 16.0189819
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 36.5665131
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 36.5665131
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -38.4500008
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: -38.4500008
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3.01171875
+        inSlope: -31.1547089
+        outSlope: -31.1547089
+        tangentMode: 10
+      - time: .333333343
+        value: -7.3731842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 3.01171875
+        inSlope: 31.1547089
+        outSlope: 31.1547089
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_LHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 383.470764
+        inSlope: -12.8512573
+        outSlope: -12.8512573
+        tangentMode: 10
+      - time: .333333343
+        value: 379.187012
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 383.470764
+        inSlope: 12.8512573
+        outSlope: 12.8512573
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dragon/Dragon_Animation/Dragon_Everything/Dragon_Body/Dragon_Hand2
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

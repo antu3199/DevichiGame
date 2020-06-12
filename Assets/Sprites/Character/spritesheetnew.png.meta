@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 1b8cd164e3c77c94f97fa83dd70228a7
+timeCreated: 1436821948
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheetnew_0
+    21300002: spritesheetnew_1
+    21300004: spritesheetnew_2
+    21300006: spritesheetnew_3
+    21300008: spritesheetnew_4
+    21300010: spritesheetnew_5
+    21300012: spritesheetnew_6
+    21300014: spritesheetnew_7
+    21300016: spritesheetnew_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheetnew_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 37
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetnew_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 13
+        height: 10
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetnew_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 70
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: .980804443, y: .689526141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetnew_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 16
+        height: 11
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetnew_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 13
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetnew_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: .859069824, y: .691822052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetnew_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 29
+        width: 16
+        height: 11
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetnew_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: .183594182, y: .707132101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetnew_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: .150464892, y: .655348957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
